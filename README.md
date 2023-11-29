@@ -14,4 +14,3 @@
 - than rename  "daemon" with "imran"
 - finally this command will show details
 - `sudo getfacl /opt/lampp/htdocs/`
-5. 
