@@ -14,3 +14,5 @@
 - than rename  "daemon" with "imran"
 - finally this command will show details
 - `sudo getfacl /opt/lampp/htdocs/`
+- Slack update comment
+- `sudo apt upgrade slack`
