@@ -16,3 +16,13 @@
 - `sudo getfacl /opt/lampp/htdocs/`
 - Slack update comment
 - `sudo apt upgrade slack`
+
+5. show unlocated software
+- `dpkg -l | grep simplescreenrecorder`
+
+6. uninstall command for unlocated software.
+- `sudo apt-get purge simplescreenrecorder`
+
+7. get package name
+- `sudo apt-get purge package-name`
+- `sudo reboot`
