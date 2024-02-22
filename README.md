@@ -16,6 +16,7 @@
 - `sudo getfacl /opt/lampp/htdocs/`
 - Slack update comment
 - `sudo apt upgrade slack`
+<<<<<<< HEAD
 
 5. show unlocated software
 - `dpkg -l | grep simplescreenrecorder`
@@ -26,3 +27,7 @@
 7. get package name
 - `sudo apt-get purge package-name`
 - `sudo reboot`
+=======
+- will show list all files and directories in a directory, including hidden files and directories.
+- `ls -a`
+>>>>>>> af31c4e (main)
