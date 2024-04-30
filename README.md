@@ -59,3 +59,14 @@
 11. Update all software from Ubuntu terminal.
 
 - `sudo apt update && sudo apt upgrade`
+
+12. Clean Up: After the upgrade is complete, you can clean up any residual
+    packages that are no longer needed. Run the following command:
+
+- `sudo apt autoremove`
+
+13. Sometimes, upgrading packages may require installing new dependencies or
+    removing obsolete packages, This command may remove some packages if it's
+    necessary to resolve dependencies or conflicts.
+
+- `sudo apt dist-upgrade`
