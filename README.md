@@ -55,3 +55,7 @@
 
 - `sudo /opt/lampp/xampp status`
 - `sudo /opt/lampp/lampp status proftpd`
+
+11. Update all software from Ubuntu terminal.
+
+- `sudo apt update && sudo apt upgrade`
