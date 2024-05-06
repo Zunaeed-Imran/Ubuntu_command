@@ -70,3 +70,9 @@
     necessary to resolve dependencies or conflicts.
 
 - `sudo apt dist-upgrade`
+
+14. Sometimes, making new branch locak machine can't find it another device.
+
+- `git fetch`
+- this command will fix this.
+- `git branch` we can check branch by using this command.
