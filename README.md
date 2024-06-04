@@ -76,3 +76,7 @@
 - `git fetch`
 - this command will fix this.
 - `git branch` we can check branch by using this command.
+
+15. Search command for VS-code
+- `ctrl+p` for file search in vs-code.
+- `ctrl+f` for word search in vs code.
