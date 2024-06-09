@@ -78,5 +78,40 @@
 - `git branch` we can check branch by using this command.
 
 15. Search command for VS-code
+
 - `ctrl+p` for file search in vs-code.
 - `ctrl+f` for word search in vs code.
+
+16. Ubuntu System Information
+
+- `uname -a` General System Information
+- `lsb_release -a` Detailed System Information
+- `sudo lshw` Hardware Overview:
+- `sudo lshw > hardware_info.txt` This provides a comprehensive overview of your hardware. You can also output this to a file for easier viewing.
+
+17. CPU Information in Ubuntu
+
+- `lscpu` CPU Details
+- `cat /proc/cpuinfo` Another way to get CPU information:
+
+18. Memory Information Ubuntu
+
+- `free -h` RAM Details:
+- `sudo dmidecode --type memory` Detailed RAM Information
+
+19. Ubuntu Disk Information
+
+- `df -h` Disk Space Usage:
+- `lsblk` Disk Details:
+- `sudo fdisk -l` Another detailed view of disk partitions
+
+20. GPU Information in Ubuntu
+
+- `lspci | grep VGA` GPU Details
+- `sudo lshw -C display` Detailed GPU Information
+
+21. Network Information in Ubuntu
+
+- `ip a` Network Interfaces
+- `ifconfig` Detailed Network Configuration
+
