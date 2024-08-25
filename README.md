@@ -115,3 +115,11 @@
 - `ip a` Network Interfaces
 - `ifconfig` Detailed Network Configuration
 
+22. Props type in react.
+
+- import PropTypes from "prop-types"; // up to the file
+- MyApp.propTypes = {
+  // this code will be down to the file
+  count: PropTypes.number,
+  onClick: PropTypes.func,
+};
