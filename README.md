@@ -123,3 +123,9 @@
   count: PropTypes.number,
   onClick: PropTypes.func,
 };
+
+23. Deploy Web Site in Vercel.
+
+##### Environmental veriable.
+- NODE-OPTIONS 
+- --openssl-legacy-provider
