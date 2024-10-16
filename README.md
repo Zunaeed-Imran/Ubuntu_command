@@ -129,3 +129,6 @@
 ##### Environmental veriable.
 - NODE-OPTIONS 
 - --openssl-legacy-provider
+
+24. Class name suggestion in VS Code.
+- ctrl + space.
