@@ -132,3 +132,6 @@
 
 24. Class name suggestion in VS Code.
 - ctrl + space.
+
+25. PHP input for string, when online problem solving.
+- `$points = intval(trim(fgets(STDIN)));`
