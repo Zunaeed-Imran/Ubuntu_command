@@ -135,3 +135,6 @@
 
 25. PHP input for string, when online problem solving.
 - `$points = intval(trim(fgets(STDIN)));`
+
+26. WIFI latency check from terminal.
+- `ping 192.168.0.1`
