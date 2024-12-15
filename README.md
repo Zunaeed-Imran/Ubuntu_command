@@ -144,3 +144,12 @@
 - `sudo apt install software-properties-common -y`
 - `sudo apt update
 sudo apt install php8.3`
+
+28. Composer Update in Ubuntu Pc in Terminal.
+- but first need to stop xampp server.
+- `composer --version`
+- `composer self-update`
+- `composer self-update --stable`
+- `sudo curl -sS https://getcomposer.org/installer | php`
+- `sudo mv composer.phar /usr/local/bin/composer`
+- `composer self-update` than it will work.
