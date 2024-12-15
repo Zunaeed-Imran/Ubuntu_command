@@ -138,3 +138,9 @@
 
 26. WIFI latency check from terminal.
 - `ping 192.168.0.1`
+
+27. PHP Update in Ubuntu PC in Terminal.
+- `sudo apt update && sudo apt upgrade -y`
+- `sudo apt install software-properties-common -y`
+- `sudo apt update
+sudo apt install php8.3`
