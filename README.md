@@ -156,3 +156,6 @@ sudo apt install php8.3`
 
 29. Lark install command after download from terminal.
 - `sudo dpkg -i Lark-linux_x64-7.28.10.deb`
+
+30. For CPU Configuration See.
+- `lscpu`
