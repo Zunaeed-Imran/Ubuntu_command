@@ -159,3 +159,6 @@ sudo apt install php8.3`
 
 30. For CPU Configuration See.
 - `lscpu`
+
+31. can find a word from all project.
+- `ctrl+shift+f`
