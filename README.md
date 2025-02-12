@@ -162,3 +162,5 @@ sudo apt install php8.3`
 
 31. can find a word from all project.
 - `ctrl+shift+f`
+
+32. number `+880 1859-168070`
