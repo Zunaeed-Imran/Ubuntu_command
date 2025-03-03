@@ -165,3 +165,16 @@ sudo apt install php8.3`
 
 32. youtube Video donwload.
 - before youtube link `ss` it will pop-up the download menu.
+
+33. #### Set Global Username and Emai
+- `git config --global user.name "Your Name"`
+- `git config --global user.email "your-email@example.com"`
+
+34. Set Username and Email for a Specific Repository
+- `git config --local user.name "Your Name"`
+- `git config --local user.email "your-email@example.com"`
+
+35. To check the Thane git user and mail.
+- `git config --global --list`
+- `git config --local --list`
+
