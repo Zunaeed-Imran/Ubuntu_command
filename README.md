@@ -178,3 +178,15 @@ sudo apt install php8.3`
 - `git config --global --list`
 - `git config --local --list`
 
+36. To install OMZ in ubuntu PC terminal.
+- `sudo apt update`
+- `sudo apt install zsh -y`
+- Once installed, set Zsh as your default shell:
+- `chsh -s $(which zsh)`
+- Run the following command to install OMZ using curl:
+- `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- Restart the PC
+- Run the following command to check if OMZ is installed:
+- `echo $SHELL`
+- to check version.
+- `zsh --version`
