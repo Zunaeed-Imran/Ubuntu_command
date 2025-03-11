@@ -190,3 +190,6 @@ sudo apt install php8.3`
 - `echo $SHELL`
 - to check version.
 - `zsh --version`
+
+37. To see all keyboard shortcut in VS-Code.
+- `Ctrl + K Ctrl  + S`
