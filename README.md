@@ -193,3 +193,6 @@ sudo apt install php8.3`
 
 37. To see all keyboard shortcut in VS-Code.
 - `Ctrl + K Ctrl  + S`
+
+38. To install ubuntu software install interface.
+- `sudo apt install gnome-software`
